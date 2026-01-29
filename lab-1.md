@@ -444,8 +444,8 @@ In this task, you will install the required dependencies, configure a virtual en
 
 1. In the `sample.env` file, provide the following environment variables using the values retrieved from your Microsoft Foundry project:
 
-   - `AIPROJECT_ENDPOINT`: Provide the **Project endpoint** value you have copied in Step 8 of Task 1.
-   - `API_KEY`: Provide the **Key** value of the **gpt-4.1** model you have copied in Step 8 of Task 1.
+   - `AIPROJECT_ENDPOINT`: Provide the **Project endpoint** value you have copied in Step 12 of Task 1.
+   - `API_KEY`: Provide the **Key** value of the **gpt-4.1** model you have copied in Step 12 of Task 1.
    - `CHAT_MODEL_ENDPOINT`: Provide the **Target URI** of the **gpt-4.1** model you have copied in Step 6 of Task 2.
    - `CHAT_MODEL`: **gpt-4.1**
 
