@@ -126,9 +126,9 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
    ![](./media/new/g10.png)
 
-1. Select **my-search-service-<inject key="Deployment ID" enableCopy="false"></inject> (1)** from the dropdown and click on **Connect (2)**.
+1. On the Create a new connection window, under **Browse (1)** tab select **my-search-service-<inject key="Deployment ID" enableCopy="false"></inject> (2)** from the dropdown. Select **Microsoft Entra ID (3)** as Auth type and click on **Connect (4)**.
 
-   ![](./media/new/g11.png)
+   ![](./media/search-conn-3001.png)
 
 > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 > - If you receive a success message, you can proceed to the next task.
