@@ -81,14 +81,14 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
    |Setting|Value|
    |---|---|
-   |Kind|**Azure AI Foundry (Preview) (1)**|
+   |Kind|**Microsoft Foundry (1)**|
    |Subscription|**Leave it default** **(2)**|
    |Azure AI Foundry/Hub project|**my-project-<inject key="DeploymentID" enableCopy="false" /></inject>** **(3)**|
    |Model deployment|**text-embedding-3-large** **(4)**|
    |Authentication type|**System assigned identity** **(5)**|
    |Acknowledgement rectangle|**Checked** **(6)**|
 
-      ![](./media/new/g6.png)
+      ![](./media/new/L3T1S14.png)
 
 1. Click on **Next** twice.
 
