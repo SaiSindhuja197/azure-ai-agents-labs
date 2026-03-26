@@ -118,9 +118,9 @@ In this task, you will create an **Azure AI Search index** to store vectorized r
 
    ![](./media/new/g8.png)
 
-1. To add a new connection, click on **Add connection** from the top right corner.
+1. To add a new connection, go to **Connected resources (1)** and then click on **Add connection (2)**.
 
-   ![](./media/new/g9.png)
+   ![](./media/ag45.png)
 
 1. In **Choose a connection** pop up window, select **Azure AI Search (1)** and click on **Continue (2)**.
 
